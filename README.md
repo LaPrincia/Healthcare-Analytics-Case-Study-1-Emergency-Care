@@ -32,7 +32,15 @@ Executive leadership required greater visibility into operational performance to
 
 ## Dashboard Preview
 
-*Dashboard image coming soon.*
+### Dashboard 1 – Executive Emergency Performance
+
+![Executive Emergency Performance Dashboard](Images/Executive%20Emergency%20Performance%20Dashboard.png)
+
+---
+
+### Dashboard 2 – Patient Experience
+
+![Patient Experience Dashboard](Images/Patient%20Experience%20Dashboard.png)
 
 ---
 
