@@ -12,6 +12,16 @@ Developed for the fictional **Palmetto Regional Health System (PRHS)**, this pro
 
 ---
 
+## Project Highlights
+
+- Designed a relational healthcare database using Microsoft SQL Server
+- Developed SQL queries to support executive KPI reporting
+- Validated operational metrics to ensure dashboard accuracy
+- Built interactive Tableau dashboards for Emergency Department Operations and Patient Experience
+- Applied the DMAIC framework to identify opportunities for operational improvement
+
+---
+
 ## Business Challenge
 
 Palmetto Regional Health System (PRHS) was experiencing increased Emergency Department volumes, longer patient wait times, inconsistent patient throughput, and opportunities to improve the overall patient experience.
@@ -48,12 +58,17 @@ Executive leadership required greater visibility into operational performance to
 
 ### SQL Scripts
 
-- **01_dashboard_1_ed_operations_queries.sql** – SQL queries used to build Dashboard 1 (Emergency Department Operations)
-- **02_dashboard_1_operations_validation.sql** – Validation queries used to verify Dashboard 1 metrics
-- **03_dashboard_1_tableau_dataset.sql** – Final Tableau dataset for Dashboard 1
-- **04_dashboard_2_patient_experience_queries.sql** – SQL queries used to build Dashboard 2 (Patient Experience)
-- **05_dashboard_2_patient_experience_validation.sql** – Validation queries used to verify Dashboard 2 metrics
-- **06_dashboard_2_tableau_dataset.sql** – Final Tableau dataset for Dashboard 2
+- **[01_dashboard_1_ed_operations_queries.sql](SQL/01_dashboard_1_ed_operations_queries.sql)** – SQL queries used to build Dashboard 1 (Emergency Department Operations)
+
+- **[02_dashboard_1_operations_validation.sql](SQL/02_dashboard_1_operations_validation.sql)** – Validation queries used to verify Dashboard 1 metrics
+
+- **[03_dashboard_1_tableau_dataset.sql](SQL/03_dashboard_1_tableau_dataset.sql)** – Final Tableau dataset for Dashboard 1
+
+- **[04_dashboard_2_patient_experience_queries.sql](SQL/04_dashboard_2_patient_experience_queries.sql)** – SQL queries used to build Dashboard 2 (Patient Experience)
+
+- **[05_dashboard_2_patient_experience_validation.sql](SQL/05_dashboard_2_patient_experience_validation.sql)** – Validation queries used to verify Dashboard 2 metrics
+
+- **[06_dashboard_2_tableau_dataset.sql](SQL/06_dashboard_2_tableau_dataset.sql)** – Final Tableau dataset for Dashboard 2
 
 ---
 
